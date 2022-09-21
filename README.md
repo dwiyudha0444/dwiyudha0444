@@ -26,6 +26,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwiyudha0444" alt="dwiyudha0444" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwiyudha0444&show_icons=true&locale=en&layout=compact" alt="dwiyudha0444" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dwiyudha0444&show_icons=true&locale=en" alt="dwiyudha0444" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwiyudha0444&show_icons=true&locale=en&layout=compact" alt="dwiyudha0444" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwiyudha0444&show_icons=true&locale=en" alt="dwiyudha0444" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwiyudha0444&" alt="dwiyudha0444" /></p>
